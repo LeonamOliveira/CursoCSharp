@@ -1,0 +1,9 @@
+C:\Users\Leonam\source\repos\CursoCSharp\Encapsulamento\bin\Debug\netcoreapp2.1\Encapsulamento.deps.json
+C:\Users\Leonam\source\repos\CursoCSharp\Encapsulamento\bin\Debug\netcoreapp2.1\Encapsulamento.dll
+C:\Users\Leonam\source\repos\CursoCSharp\Encapsulamento\bin\Debug\netcoreapp2.1\Encapsulamento.pdb
+C:\Users\Leonam\source\repos\CursoCSharp\Encapsulamento\obj\Debug\netcoreapp2.1\Encapsulamento.csprojAssemblyReference.cache
+C:\Users\Leonam\source\repos\CursoCSharp\Encapsulamento\obj\Debug\netcoreapp2.1\Encapsulamento.csproj.CoreCompileInputs.cache
+C:\Users\Leonam\source\repos\CursoCSharp\Encapsulamento\obj\Debug\netcoreapp2.1\Encapsulamento.AssemblyInfoInputs.cache
+C:\Users\Leonam\source\repos\CursoCSharp\Encapsulamento\obj\Debug\netcoreapp2.1\Encapsulamento.AssemblyInfo.cs
+C:\Users\Leonam\source\repos\CursoCSharp\Encapsulamento\obj\Debug\netcoreapp2.1\Encapsulamento.dll
+C:\Users\Leonam\source\repos\CursoCSharp\Encapsulamento\obj\Debug\netcoreapp2.1\Encapsulamento.pdb
