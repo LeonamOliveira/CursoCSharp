@@ -9,6 +9,7 @@ using CursoCSharp.OO;
 using CursoCSharp.MetodosEFuncoes;
 using CursoCSharp.Excecoes;
 using CursoCSharp.Api;
+using CursoCSharp.TopicosAvancados;
 
 namespace CursoCSharp {
     class Program {
@@ -22,7 +23,6 @@ namespace CursoCSharp {
                 {"Interpolação - Fundamentos", Interpolação.Executar },
                 {"Notação Ponto - Fundamentos", NotacaoPonto.Executar },
                 {"Lendo Dados - Fundamentos", LendoDados.Executar },
-                {"Teste Uri - Fundamentos", TesteUri.Executar },
                 {"Formatando Numero - Fundamentos", FormatandoNumero.Executar},
                 {"Conversões - Fundamentos", Conversoes.Executar},
                 {"Operadores Aritméticos - Fundamentos", OperadoresAritmeticos.Executar},
@@ -93,7 +93,21 @@ namespace CursoCSharp {
                 {"Exceções Personalizadas - Exceções", ExcecoesPersonalizadas.Executar},
 
                 //API
-                {"Primeiro Arquivo - Usando API", PrimeiroArquivo.Executar}
+                {"Primeiro Arquivo - Usando API", PrimeiroArquivo.Executar},
+                {"Lendo Arquivos - Usando API", LendoArquivos.Executar},
+                {"Exemplo FileInfo - Usando API", ExemploFileInfo.Executar},
+                {"Diretórios - Usando API", Diretorios.Executar},
+                {"Exemplo DirectoryInfo - Usando API", ExemploDirectoryInfo.Executar},
+                {"Exemplo Path - Usando API", ExemploPath.Executar},
+                {"Exemplo DateTime - Usando API", ExemploDateTime.Executar},
+                {"Exemplo TimeSpan - Usando API", ExemploTimeSpan.Executar},
+
+                //Tópicos Avançados
+                {"LINQ #01 - Tópicos Avançados", LINQ1.Executar},
+                {"LINQ #02 - Tópicos Avançados", LINQ2.Executar},
+                {"Nullables - Tópicos Avançados", Nullables.Executar},
+                {"Dynamics - Tópicos Avançados", Dynamics.Executar},
+                {"Genéricos - Tópicos Avançados", Genericos.Executar}
             });
 
             central.SelecionarEExecutar();
